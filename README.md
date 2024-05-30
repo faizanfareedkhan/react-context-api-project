@@ -62,7 +62,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ---
 
 Thank you for checking out this project! Feel free to reach out if you have any questions or feedback.
-
-```
-
-```
